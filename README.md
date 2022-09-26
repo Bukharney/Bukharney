@@ -1,4 +1,4 @@
-<img a="Hi!" align="right" height="200" width="200" alt="riflowth's avatar" src="https://raw.githubusercontent.com/riflowth/riflowth/master/img/avatar.png"/>
+<img a="Hi!" align="right" height="200" width="200" alt="riflowth's avatar" src="https://github.com/Bukharney/Bukharney/blob/main/ReadyPlayerMe-Avatar.png?raw=true"/>
 
 # 🙏 Jirapat Lakma — @Bukharney
 
