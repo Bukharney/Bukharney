@@ -10,7 +10,7 @@ I'm currently learning a React Native with a 🍺
 - 🌟 **Experienced with:** Flutter, C, MacOS
 - 👀 **Interest in:** React Native
 
-<a href="https://www.linkedin.com/in/jirapat-lakma-7980471b2/">
+<a href="www.linkedin.com/in/jirapat-lakma">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br /><br />
