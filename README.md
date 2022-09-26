@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bukharney
-- 👀 I’m interested in Mobile application
-- 🌱 I’m currently learning React native
+<img a="Hi!" align="right" height="200" width="200" alt="riflowth's avatar" src="https://raw.githubusercontent.com/riflowth/riflowth/master/img/avatar.png"/>
+
+# 🙏 Jirapat Lakma — @Bukharney
 
 <!---
 Bukharney/Bukharney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
