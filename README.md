@@ -3,7 +3,7 @@
 # 🙏 Jirapat Lakma — @Bukharney
 
 Hi, I'm Big — a computer engineering student, love in software development especially Mobile application. 
-I'm currently learning a React Native with a 🍺
+I'm currently learning a React Native
 
 ## ⚙️ Personal
 
