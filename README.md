@@ -7,7 +7,7 @@ I'm currently learning a React Native
 
 ## ⚙️ Personal
 
-- 🌟 **Experienced with:** Flutter, C, MacOS
+- 🌟 **Experienced with:** React, JS, Python, Flutter, C, MacOS
 - 👀 **Interest in:** React Native
 
 <a href="https://www.linkedin.com/in/jirapat-lakma/">
