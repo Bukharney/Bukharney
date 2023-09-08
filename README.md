@@ -8,7 +8,7 @@ I'm currently learning a React Native
 ## ⚙️ Personal
 
 - 🌟 **Experienced with:** React, JS, Python, Flutter, C, MacOS
-- 👀 **Interest in:** React Native
+- 👀 **Interest in:** Go
 
 <a href="https://www.linkedin.com/in/jirapat-lakma/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
