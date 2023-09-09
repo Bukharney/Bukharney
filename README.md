@@ -33,7 +33,7 @@ I'm currently learning a Go
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bukharney&layout=compact&theme=transparent&langs_count=8&card_width=320" />
 </a>
 <br /><br />
-<a href="https://github.com/bukharney/ProjectTradeKu">
+<a href="https://github.com/bukharney/ProjectTradeKub">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bukharney&repo=ProjectTradeKub&theme=transparent&card_width=320" />
 </a>
 <a href="https://github.com/bukharney/Tradekub_API">
