@@ -2,13 +2,24 @@
 
 # 🙏 Jirapat Lakma — @Bukharney
 
-Hi, I'm Big — a computer engineering student, love in software development especially Mobile application. 
+Hi, I'm Big — a computer engineering student, who love in software development especially Web application. 
 I'm currently learning a Go
 
 ## ⚙️ Personal
 
-- 🌟 **Experienced with:** React, JS, Python, Flutter, C, MacOS
-- 👀 **Interest in:** Go
+- 🌟 **Experienced with:**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,react,js,html,css,fastapi,flutter,dart,postgres,postman,py,vscode" />
+  </a>
+</p>
+
+- 👀 **Interest in:**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,svelte" />
+  </a>
+</p>
 
 <a href="https://www.linkedin.com/in/jirapat-lakma/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
