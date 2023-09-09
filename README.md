@@ -34,10 +34,10 @@ I'm currently learning a Go
 </a>
 <br /><br />
 <a href="https://github.com/bukharney/ProjectTradeKu">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bukharney&repo=ProjectTradeKub&theme=transparent&card_width=320" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bukharney&repo=ProjectTradeKub&theme=transparent&card_width=320" />
 </a>
 <a href="https://github.com/bukharney/Tradekub_API">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bukharney&repo=Tradekub_API&theme=transparent&card_width=320" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bukharney&repo=Tradekub_API&theme=transparent&card_width=320" />
 </a>
 
 
