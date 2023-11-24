@@ -26,17 +26,7 @@ I'm currently learning a Go
 <a href="https://www.linkedin.com/in/jirapat-lakma/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<br /><br />
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bukharney&layout=compact&langs_count=8&card_width=320&hide=html,css,cmake,ruby,swift&theme=transparent" />
-</a>
-<br /><br />
-<a href="https://github.com/bukharney/ProjectTradeKub">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bukharney&repo=ProjectTradeKub&theme=transparent" />
-</a>
-<a href="https://github.com/bukharney/Tradekub_API">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bukharney&repo=Tradekub_API&theme=transparent" />
-</a>
+
 
 
 
