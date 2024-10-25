@@ -10,14 +10,7 @@ I'm currently learning a Go
 - 🌟 **Experienced with:**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,react,js,html,css,fastapi,flutter,dart,postgres,postman,py,vscode" />
-  </a>
-</p>
-
-- 👀 **Interest in:**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,svelte" />
+    <img src="https://skillicons.dev/icons?i=go,js,ts,py,react,html,css,fastapi,postgres,postman,vscode,git" />
   </a>
 </p>
 
